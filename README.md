@@ -8,5 +8,4 @@ Build using HTML5, CSS3, JavaScript and BootstrapJS.
 
 DEMO
 
-https://naughty-payne-1e2731.netlify.app/
-
+https://xenodochial-hopper-2f5753.netlify.app/
